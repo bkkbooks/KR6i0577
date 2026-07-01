@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0577/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說尊那經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0845.xml
+    old_id: T17n0845
+hash: sha256:74c7a3f6f0df253be1afb418301cf3d01094e6152aef445e8d9b6354d37291a4
